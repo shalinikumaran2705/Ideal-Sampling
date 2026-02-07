@@ -2,6 +2,7 @@
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 # Tools required
+Python IDE
 # Program
 # Ideal Sampling
 
@@ -163,7 +164,11 @@ plt.show()
 # Output Waveform
 # Ideal Sampling
 
-<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/b0231dea-2ab5-402d-abc9-b7aeef5fcad9" />
+<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/04955186-7c52-4cff-92f5-63226dcd09a0" />
+
+<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/b1bdd051-ca8d-414c-a4ba-9f2fe4429b3e" />
+
+<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/304f1c20-2727-4daa-a379-08aa4bda571c" />
 
 # Natural Sampling
 
